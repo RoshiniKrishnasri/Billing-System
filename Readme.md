@@ -38,6 +38,7 @@ Using Python’s Tkinter GUI toolkit:
    python billing_system.py
 ## 🖼️output
 https://github.com/RoshiniKrishnasri/Billing-System/blob/main/Media/Bill%20(1).PNG
+
 https://github.com/RoshiniKrishnasri/Billing-System/blob/main/Media/output.png
 
 ##👩‍💻 Author
